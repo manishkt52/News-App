@@ -1,4 +1,5 @@
 # News-App
+Articles of different news from multiple resources using fetching API. 
 
 # Website Screenshot
 ![Capture](https://github.com/manishkt52/News-App/assets/109426299/0fcbe05e-7afd-4dba-a240-78af5f91c46b)
